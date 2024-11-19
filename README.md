@@ -156,4 +156,4 @@ Beers are only discounted when bought in packs of 6. The discounts are:
 - €4.00 off per pack of German beer.
 
 ## Play with Swagger
-https://localhost:7777/swagger-ui/index.html
+https://localhost:8080/swagger-ui/index.html
