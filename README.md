@@ -38,7 +38,7 @@ To start working on the project, follow these steps:
 If the project is hosted on a Git repository (GitHub, GitLab, etc.), you can clone it by running:
 
 ```bash
-git clone https://github.com/your-username/grocery-store.git
+git clone https://github.com/kudums/grocery-store
 ```
 ## Option 2: Using GitHub Desktop or Other Git Clients
 If you're not comfortable using the command line, you can use a Git client like GitHub Desktop to clone the repository.
