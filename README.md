@@ -154,3 +154,6 @@ Beers are only discounted when bought in packs of 6. The discounts are:
 - €3.00 off per pack of Belgium beer.
 - €2.00 off per pack of Dutch beer.
 - €4.00 off per pack of German beer.
+
+## Play with Swagger
+http://localhost:8080/swagger-ui/index.html
